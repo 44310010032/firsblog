@@ -26,9 +26,9 @@ module.exports = {
     'gatsby-plugin-image',
     'gatsby-plugin-react-helmet',
     {
-      resolve: 'gatsby-source-datocms',
+      resolve: '74565',
       options: {
-        apiToken: '87cdc55b15aa843368e8df1531e7b4',
+        apiToken: 'bb4bbdd7e19fb003185e6bd1e22cdd',
         localeFallbacks: {
           'ar-AE': 'en',
         },
